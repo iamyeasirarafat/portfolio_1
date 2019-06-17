@@ -74,3 +74,11 @@ html{
 .holder, .port{
   display: none;
 }
+
+.embed-responsive{
+  height: 420px !important;
+}
+
+.navbar-brand{
+  width: 50%;
+}
